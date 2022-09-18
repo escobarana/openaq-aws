@@ -1,0 +1,5 @@
+streamlit~=1.12.2
+pandas~=1.4.4
+boto3~=1.24.75
+numpy~=1.23.3
+pydeck==0.7.1
